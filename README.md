@@ -21,7 +21,7 @@ Here are some academic and personal projects that reflect my learning journey:
 - 🔹 [ Podcast Management Application ](https://github.com/Majdoline-elbennadi/podcast-management-system/tree/main) – Java application using OOP principles.
 - 🔹 [Database Project(Library Management System)](https://github.com/Majdoline-elbennadi/Library-Database-Management-System/tree/main) – Design and querying of relational databases.
 - 🔹 [Pet Feeding System](https://github.com/Majdoline-elbennadi/pet-feeding-system/tree/main) – Automated system for scheduling and controlling pet feeding.
-- 🔹 [LUXEON – Perfume E-commerce Prototype ]() – - Built cart and wishlist persistence with strong data consistency. - Focused on user experience while learning session management techniques.
+- 🔹 [LUXEON – Perfume E-commerce Prototype ](https://github.com/Majdoline-elbennadi/luxeon-ecommerce-prototype) – - Built cart and wishlist persistence with strong data consistency. - Focused on user experience while learning session management techniques.
 
 
 ---
