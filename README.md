@@ -20,7 +20,7 @@ Here are some academic and personal projects that reflect my learning journey:
 - 🔹 [CPU Scheduling Simulator]() – Implementation of scheduling algorithms and performance metrics.
 - 🔹 [ Podcast Management Application ](https://github.com/Majdoline-elbennadi/podcast-management-system/tree/main) – Java application using OOP principles.
 - 🔹 [Database Project(Library Management System)]() – Design and querying of relational databases.
-- 🔹 [Pet Feeding System]() – Automated system for scheduling and controlling pet feeding.
+- 🔹 [Pet Feeding System](https://github.com/Majdoline-elbennadi/pet-feeding-system/tree/main) – Automated system for scheduling and controlling pet feeding.
 
 ---
 
